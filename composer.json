@@ -1,0 +1,15 @@
+{
+    "name": "roycharley83-crypto/yii2-tree-page-cache",
+    "description": "Tree-structured file page cache for Yii2",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4",
+        "yiisoft/yii2": "~2.0.45"
+    },
+    "autoload": {
+        "psr-4": {
+            "YiiComponents\\TreePageCache\\": "src/"
+        }
+    }
+}
